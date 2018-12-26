@@ -1,0 +1,17 @@
+body
+{
+    background-image:url('back.jpg');
+    background-repeat:space;
+    background-attachment:fixed;
+    background-position:center-right;
+    background-size:1400px;
+}
+Back1.css
+body
+{
+    background-image:url('back1.png');
+    background-repeat:space;
+    background-attachment:fixed;
+    background-position:center-right;
+    background-size:1400px;
+}	
